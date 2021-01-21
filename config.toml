@@ -1,0 +1,4 @@
+baseURL = "https://stockquotestop.vercel.app"
+languageCode = "en-us"
+title = "Stock Quotes Wallpaper"
+theme = "tale-hugo-master"
